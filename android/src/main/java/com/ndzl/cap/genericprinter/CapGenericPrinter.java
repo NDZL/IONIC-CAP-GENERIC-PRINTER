@@ -1,5 +1,6 @@
 package com.ndzl.cap.genericprinter;
 
+import android.content.Context;
 import android.util.Log;
 
 public class CapGenericPrinter {

@@ -7,4 +7,8 @@ export class CapGenericPrinterWeb extends WebPlugin implements CapGenericPrinter
     console.log('ECHO', options);
     return options;
   }
+
+  async printHTML(options: { html: string }): Promise<void> {
+    console.log('printHTML', options);
+  }
 }
