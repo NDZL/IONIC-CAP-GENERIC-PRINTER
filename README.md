@@ -7,7 +7,7 @@ See it in action
 Configure the Printing service according to your printer's brand
 
 ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/1575e30a-cfc3-4256-b1db-2fb3eec238f1)
-![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/f8cbace5-2e5b-44e4-a7f8-10a9aa7dda49)
+ ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/48f29139-4551-4779-87a0-9c052803af89)
 
 
 Run the app, type in the text you want to print
