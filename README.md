@@ -25,6 +25,20 @@ Enjoy your print. Good reading!
 
 
 
+## Coding tips
+
+App's home page (Typescript)
+
+https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.ts
+
+and
+
+https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.html
+
+
+PRINTER PLUGIN
+
+https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/tree/main/android/src/main/java/com/ndzl/cap/genericprinter
 
 
 
