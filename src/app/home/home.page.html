@@ -1,7 +1,7 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Blank
+      Ionic @Zebra! by N.DZL
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -14,7 +14,12 @@
   </ion-header>
 
   <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <strong>Ready to print on Android?</strong>
+    <br>
+    <ion-item>
+      <ion-input id="txtPrint" [(ngModel)]="txtPrint" label="Text to be printed:"></ion-input>
+    </ion-item>
+    <br>
+    <ion-button color="primary" (click)="btnPrint(this.txtPrint)">PRINT</ion-button>
   </div>
 </ion-content>

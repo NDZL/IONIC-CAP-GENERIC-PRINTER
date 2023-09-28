@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CapGenericPrinter } from 'generic-printer'
 
 @Component({
   selector: 'app-home',
@@ -7,6 +8,18 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  txtPrint: string = "'<h1>hello IONIC printer!</h1>'";
+
+  constructor() {
+
+   let echoed =  CapGenericPrinter.echo({value: 'hello world by Nik'})
+    console.log(echoed)
+
+  }
+
+  btnPrint(ttp: string){
+    //CapGenericPrinter.printHTML({html: '<h1>hello IONIC printer! </h1>'})
+    CapGenericPrinter.printHTML({html: ttp})
+  }
 
 }
