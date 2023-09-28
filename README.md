@@ -36,7 +36,7 @@ and
 https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.html
 
 
-PRINTER PLUGIN
+PRINTER PLUGIN (Java / Android)
 
 https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/tree/main/android/src/main/java/com/ndzl/cap/genericprinter
 
