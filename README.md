@@ -94,6 +94,7 @@ This sample code is showing 2 ways to add a DW profile
   
 - to install a profile by means of the Zebra Public folders and the auto-import feature, press INSTALL DW PROFILE VIA ENTERPRISE FOLDER
   
+    ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/8daf03bc-59e9-4119-acbd-103d8362da71)
 
 
  
