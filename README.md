@@ -101,10 +101,8 @@ Enjoy printing and scanning!
  
 
 ### Coding tips
-App's home page (Typescript)
-https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.ts
-and
-https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.html
-PRINTER PLUGIN (Java / Android)
-https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/tree/main/android/src/main/java/com/ndzl/cap/genericprinter
+- App's home page (Typescript) https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.ts 
+ and  https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.html
+- Assets folder for DW Plugins https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/tree/main/generic-printer/android/src/main/assets
+- APIs for installing DW Profiles https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/9c558b20381e08182aa9b9dbc55c78cc19619676/generic-printer/android/src/main/java/com/ndzl/cap/genericprinter/CapGenericPrinterPlugin.java#L138
 
