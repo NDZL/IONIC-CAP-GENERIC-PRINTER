@@ -79,13 +79,37 @@ addDWProfileENTERPRISE(options: { foo: string; }) => Promise<void>
 </docgen-api>
 
 
-### See it in action
+### PRINTING!
 
 Configure the Printing service according to your printer's brand
-   
+
+![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/54cda3cf-f366-4474-9776-eda8f952defb)
+
+![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/5399c1ad-1f8d-4823-8451-0f51c025750b)
+
+
 Run the app, type in the text you want to print
- 
-Push the PRINT button and adjust the settings if needed
+
+![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/f678ac40-4dbe-4bdd-a672-fd0b87bb10c4)
+
+Push the PRINT button and adjust the preview settings if needed
+
+![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/8f2b3257-48f5-4fcf-b0d7-e8d39bb66af1)
+
+
+### DATAWDGE PROFILES
+
+This sample code is showing 2 ways to add a DW profile
+
+- both require that you have previously exported a profile from Datawegde
+    ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/c977f2b9-8b6c-4a46-9c79-c24c896ed864)
+
+- to install a profile by means of Zebra Secure Storage Manager (SSM), press INSTALL DW PROFILE VIA SSM
+  
+- to install a profile by means of the Zebra Public folders and the auto-import feature, press INSTALL DW PROFILE VIA ENTERPRISE FOLDER
+  
+
+
  
 Enjoy your print. Good reading!
  
