@@ -77,3 +77,23 @@ addDWProfileENTERPRISE(options: { foo: string; }) => Promise<void>
 --------------------
 
 </docgen-api>
+
+
+### See it in action
+
+Configure the Printing service according to your printer's brand
+   
+Run the app, type in the text you want to print
+ 
+Push the PRINT button and adjust the settings if needed
+ 
+Enjoy your print. Good reading!
+ 
+Coding tips
+App's home page (Typescript)
+https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.ts
+and
+https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.html
+PRINTER PLUGIN (Java / Android)
+https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/tree/main/android/src/main/java/com/ndzl/cap/genericprinter
+
