@@ -1,0 +1,31 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Ionic @Zebra! by N.DZL
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Blank</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <strong>Ready to print on Android?</strong>
+    <br>
+    <ion-item>
+      <ion-input id="txtPrint" [(ngModel)]="txtPrint" label="Text to be printed:"></ion-input>
+    </ion-item>
+    <br>
+    <ion-button color="primary" (click)="btnPrint(this.txtPrint)">PRINT</ion-button>
+    <br>
+    <br>
+    <ion-button color="primary" (click)="btnDWssm('abc')">INSTALL DW PROFILE VIA SSM</ion-button>
+    <br>
+    <br>
+    <ion-button color="primary" (click)="btnDWenterprise('abc')">INSTALL DW PROFILE VIA ENTERPRISE FOLDER</ion-button>
+  </div>
+</ion-content>
