@@ -97,12 +97,12 @@ Push the PRINT button and adjust the preview settings if needed
 ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/8f2b3257-48f5-4fcf-b0d7-e8d39bb66af1)
 
 
-### DATAWDGE PROFILES
+### DATAWDGE PROFILES!
 
 This sample code is showing 2 ways to add a DW profile
 
 - both require that you have previously exported a profile from Datawegde
-    ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/c977f2b9-8b6c-4a46-9c79-c24c896ed864)
+    ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/6b835c91-ee75-4bc7-9ad0-d3580d1e0243)
 
 - to install a profile by means of Zebra Secure Storage Manager (SSM), press INSTALL DW PROFILE VIA SSM
   
