@@ -111,9 +111,10 @@ This sample code is showing 2 ways to add a DW profile
 
 
  
-Enjoy your print. Good reading!
+Enjoy printing and scanning!
  
-Coding tips
+
+### Coding tips
 App's home page (Typescript)
 https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/blob/master/src/app/home/home.page.ts
 and
