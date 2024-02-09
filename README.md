@@ -101,8 +101,8 @@ Push the PRINT button and adjust the preview settings if needed
 
 This sample code is showing 2 ways to add a DW profile
 
-- both require that you have previously exported a profile from Datawegde
-- 
+- both require that you have previously exported a profile from Datawegde and imported into the Capacitor Android branch in the ```assets``` foler
+  
     ![image](https://github.com/NDZL/IONIC-CAP-GENERIC-PRINTER/assets/11386676/6b835c91-ee75-4bc7-9ad0-d3580d1e0243)
 
 - to install a profile by means of Zebra Secure Storage Manager (SSM), press INSTALL DW PROFILE VIA SSM
